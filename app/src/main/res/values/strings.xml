@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SettingsDemo</string>
+    <array name="units">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </array>
+</resources>
